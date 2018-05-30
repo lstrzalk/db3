@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\bin\Debug\LStrzalkaMirDBFirst.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\bin\Debug\LStrzalkaMirDBFirst.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\bin\Debug\LStrzalkaMirDBFirst.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\obj\Debug\LStrzalkaMirDBFirst.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\obj\Debug\LStrzalkaMirDBFirst.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\LStrzalkaMirDBFirst\LStrzalkaMirDBFirst\obj\Debug\LStrzalkaMirDBFirst.pdb

@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\bin\Debug\LStrzalkaMirCodeFirst.exe.config
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\bin\Debug\LStrzalkaMirCodeFirst.exe
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\bin\Debug\LStrzalkaMirCodeFirst.pdb
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\obj\Debug\LStrzalkaMirCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\obj\Debug\LStrzalkaMirCodeFirst.exe
+c:\users\student\documents\visual studio 2012\Projects\LStrzalkaMirCodeFirst\LStrzalkaMirCodeFirst\obj\Debug\LStrzalkaMirCodeFirst.pdb
